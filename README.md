@@ -21,3 +21,6 @@ This project fetches, processes, and visualizes trending YouTube video data usin
 ## 🔐 How to Set Up Your API Keys
 To run this project, create a `.env` file in the project folder in this format:
 API_KEY=your_youtube_api_key_here
+
+Note from me ~
+I'm fairly new to the tech and data world and this just my first project. With that I would love any constructive criticism that comes, but please gentle thanks 😊
