@@ -14,7 +14,7 @@ This project fetches, processes, and visualizes trending YouTube video data usin
 - `Youtube_Trend_Analysis.twb` — Tableau dashboard
 - `cleaning_data.py` — Data preprocessing
 - `category_ID.py` — Category mapping
-- `youtubeanalysisregion.py` — Region-specific trends
+- `youtubeanalysisregion.py` — Pulls data using YouTube API
 - `youtube_trending_region.csv` — Dataset
 - `.env` — (**Not uploaded**) Stores private API keys
 
