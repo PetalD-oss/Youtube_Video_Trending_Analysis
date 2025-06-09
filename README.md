@@ -11,7 +11,7 @@ This project fetches, processes, and visualizes trending YouTube video data usin
 - Engagement rate calculations
 
 ## 🗂 Folder Structure
-- `Youtube_Trend_Analysis.twb` — Tableau dashboard
+- `Youtube_Trend_Analysis.twb` — Tableau dashboard (P.S: Please check this link to view the dashboard https://public.tableau.com/app/profile/petal.dsouza/viz/Youtube_Trend_Analysis/Dashboard1)
 - `cleaning_data.py` — Data preprocessing
 - `category_ID.py` — Category mapping
 - `youtubeanalysisregion.py` — Pulls data using YouTube API
@@ -24,3 +24,4 @@ API_KEY=your_youtube_api_key_here
 
 Note from me ~
 I'm fairly new to the tech and data world and this just my first project. With that I would love any constructive criticism that comes, but please gentle thanks 😊
+
